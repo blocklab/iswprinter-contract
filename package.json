@@ -11,6 +11,7 @@
   "author": "Axel Hodler",
   "license": "ISC",
   "devDependencies": {
+    "ethereumjs-testrpc": "4.0.1",
     "truffle": "3.4.8"
   }
 }
