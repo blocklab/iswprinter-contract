@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "install": "npm rebuild",
-    "test": "./node_modules/.bin/truffle test"
+    "test": "./node_modules/.bin/truffle test",
     "deploy": "./node_modules/.bin/truffle migrate"
   },
   "author": "Axel Hodler",
